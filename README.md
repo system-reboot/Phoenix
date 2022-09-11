@@ -1,4 +1,4 @@
-# Link to our website
+# Link to our webapp
 link - https://blurryravil-new-home-4bc1ek.streamlitapp.com/
 # Ev_infrastruture_development_predictor
 To accommodate the rising demand for EVs in India, comprehensive charging infrastructure is required. Our solution provides a blueprint for the proper placement of EV stations that should be installed in a particular region by analyzing the current and future need for EV vehicles. People can easily access the website and can look for the nearest EV stations near them.
