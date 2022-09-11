@@ -1,0 +1,1 @@
+this code will distribute the user to a specific location of supply point (petrol pump).
